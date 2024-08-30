@@ -1,0 +1,4 @@
+#ruta donde van a ir los archivos organizados por flexget
+MEDIA=/mnt/m2/multimedia/media
+#ruta donde se descargan los archivos del torrent antes de organizarse
+STORAGE=/mnt/m2/multimedia/descargas
