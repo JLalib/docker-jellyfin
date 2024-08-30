@@ -1,2 +1,2 @@
-# docker-jellyfin
+# Jellyfin
 Jellyfin | Media Homeserver 
