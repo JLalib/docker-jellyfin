@@ -9,6 +9,8 @@ services:
       - TZ=Europe/Madrid
     volumes:
       - ./config:/config
+      #- ruta/a/carpeta/media:/media
+      #- ruta/a/otra/carpeta/extra:/descargas
       - ${MEDIA}:/media
       - ${STORAGE}:/descargas
     ports:
